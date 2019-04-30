@@ -92,6 +92,7 @@ DATASET_EXTRAS = {
         'scikit-image',
         'scipy'
     ],
+    'groove': ['pretty_midi', 'librosa'],
     'librispeech': ['pydub'],  # and ffmpeg installed
     'svhn': ['scipy'],
     'wikipedia': ['mwparserfromhell', 'apache_beam'],
